@@ -1,0 +1,11 @@
+.row {
+    display: flex !important;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
+  .column p {
+    font-size: 18px;
+  }
